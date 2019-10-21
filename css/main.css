@@ -37,6 +37,11 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
+body {
+	background-image: url("https://aabhakarnatak.github.io/_layouts/image.jpg");
+        background-repeat:no-repeat;
+       background-size:cover;
+} 
 
 ul.posts li {
     list-style: none;
